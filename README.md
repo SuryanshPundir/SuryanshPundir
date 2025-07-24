@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryansh Pundir</h1>
-<h3 align="center">Full Stack Developer | React • Node.js • FastAPI • MongoDB</h3>
+<h3 align="center">Full Stack Developer | React • Node.js | FastAPI • MongoDB </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript+%7C+FastAPI;Lifelong+Learner+%26+Tech+Enthusiast" alt="Typing SVG" />
